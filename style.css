@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+
+
+section{
+    height: 100vh;
+}
+
+#inicio{
+    background-color: aqua;
+}
+
+#sobremi{
+    background-color: crimson;
+}
+
+#miproyecto{
+    background-color: blueviolet;
+}
+
+#contacto{
+    background-color: chartreuse;
+}
